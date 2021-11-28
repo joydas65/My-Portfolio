@@ -1,0 +1,23 @@
+* {
+    font-family: 'Commissioner', sans-serif;
+}
+
+.my-about-me-custom-style {
+    margin-left: 10%;
+}
+
+.my-pic-custom-style {
+    width: 55%;
+    margin-left: 20%;
+    margin-bottom: 5%;
+    border-radius: 1em !important;
+}
+
+.about-me-para {
+    margin-bottom: 5%;
+    line-height: 1.8em;
+}
+
+.separator-line {
+    border-top: 1px solid #000;
+}
