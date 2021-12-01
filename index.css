@@ -21,3 +21,11 @@
 .separator-line {
     border-top: 1px solid #000;
 }
+
+.add-top-line {
+    border-top: 1px solid black;
+}
+
+.marginTop2Percent {
+    margin-top: 2%;
+}
